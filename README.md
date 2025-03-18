@@ -14,5 +14,5 @@
 10. 이현수
 
 ### 수업 장면
-<img src="image/1.jpg" width="200" height="200" />
-<img src="image/2.jpg" width="200" height="200" />
+![수업 장면 1](image/1.jpg)
+![수업 장면 2](image/2.jpg)
